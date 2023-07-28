@@ -1,6 +1,6 @@
 umap-learn
 visdom
-librosa
+librosa==0.9.2
 matplotlib>=3.3.0
 numpy
 scipy>=1.0.0
